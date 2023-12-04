@@ -1,0 +1,15 @@
+{
+    "name": "artur/solid",
+    "authors": [
+        {
+            "name": "Artur Lima",
+            "email": "arturfernandes206@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "src/"
+        }
+    }
+}
